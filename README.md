@@ -1,1 +1,1 @@
-# MyApps
+# Internal Apps
