@@ -69,6 +69,36 @@ Developed by|Facebook|google|Open Source
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 + JavaScript(ES6) Features
   * Understanding var,let and const.
 
