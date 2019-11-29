@@ -76,8 +76,13 @@ Developed by|Facebook|google|Open Source
 
   * Array Functions.
   * default parameters,Spread and Rest operator `...`,
-  
+  ![alt text](Spread&Rest.png "Spread")
 
   * destructring.
+  ![alt text](destructuring.png "destructuring")
   * import and export.
-  * 
+
+![alt text](Exports&Imports.png "Import& Export")
+
+![alt text](Exports&Imports1.png "Export & Import")
+ 
