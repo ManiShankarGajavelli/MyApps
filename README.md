@@ -21,11 +21,12 @@ Spring,Spring Boot|React,Angular 2+,Vue,selvte.
   ```javascript
     var classNames=document.getElementsbyClassName('cssClass');//
     var headerClass = classNames[0];
-    console.log(headerClass.value);// 👎
+    console.log(headerClass.value);// 👎👎
 
 
     <!-- if we compare it with jquery  -->
-    $('.cssClass')[0].val(); 👍
+
+    $('.cssClass')[0].val(); 👍👍
   ```
   * Cross-Browser Support.
 
@@ -40,13 +41,14 @@ Spring,Spring Boot|React,Angular 2+,Vue,selvte.
     }
   };
     xhttp.open("GET", "filename", true);
-    xhttp.send();
+    xhttp.send();//Difficult to use 😟😟👎
 
 
   <!-- if we compare it with jquery  -->
+
    $.ajax({url: "demo_test.txt", success: function(result){
        // Typical action to be performed when the document is ready:
-  }});
+  }});//Easy to use 😄😄👍
    ```
 + disadvantages of Jquery
   * all the features of Jquery has been added to latest versions of Javascript.
@@ -61,9 +63,21 @@ Type|React|Angular|Vue
 ---|---|---|---
 size|less|more|more
 learning curve|easy|difficult|easy
-popularity|high|medium|medium
-Open Source|YES|YES|YES
-Developed by|FaceBook|google|Open Source
+popularity|high⏩|medium|medium
+Open Source| 👍|👍|👍
+Developed by|Facebook|google|Open Source
 
 
 
++ JavaScript(ES6) Features
+  * Understanding var,let and const.
+
+  * Arrow Functions.
+
+  * Array Functions.
+  * default parameters,Spread and Rest operator `...`,
+  
+
+  * destructring.
+  * import and export.
+  * 
